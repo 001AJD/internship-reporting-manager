@@ -1,0 +1,19 @@
+td{
+	margin-right: 50px;
+}
+.fixed{
+	width: 100%;
+	margin: 3px;
+	margin-right: 90px;
+}
+
+#exampleInputPassword1, #exampleInputText, #exampleInputEmail
+{
+	width: 57%;
+}
+
+.jumbotron
+{
+	align-content: center;
+	
+}

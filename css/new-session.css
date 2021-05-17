@@ -1,0 +1,14 @@
+td{
+	margin:15px;
+}
+select{
+	margin-right: 15px;
+}
+
+label{
+	color: black;
+}
+
+#fileUpload{
+	text-align: center;
+}

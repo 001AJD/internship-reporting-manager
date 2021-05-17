@@ -1,0 +1,13 @@
+.post-box{
+	margin-top: 15px;
+}
+
+.post-button{
+	align-self: right;
+	margin-top: 10px;
+	margin-right: 10px;
+}
+
+.upload-post{
+	align-self: center;
+}
